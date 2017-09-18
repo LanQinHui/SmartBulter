@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartBulter</string>
+    <string name="text_setting">设置</string>
+    <string name="text_login">登录</string>
+    <string name="text_register">注册</string>
+    <string name="text_forget_pwd">忘记、更改密码</string>
+    <string name="text_now_login">正在登陆...</string>
+    <string name="text_courier">物流查询</string>
+    <string name="text_phone">手机号码归属地查询</string>
+
+</resources>
